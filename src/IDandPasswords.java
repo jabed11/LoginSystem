@@ -13,12 +13,4 @@ public class IDandPasswords {
     protected HashMap getLoginInfo(){
         return logininfo;
     }
-
-
-
-
-
-
-
-
 }
